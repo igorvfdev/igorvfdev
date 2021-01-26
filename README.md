@@ -1,5 +1,5 @@
 ### Hi, I am👋
-## Igor Viana
+# Igor Viana
 ### A evolving Front-End Developer.
 
 🌱 I’m currently learning 
