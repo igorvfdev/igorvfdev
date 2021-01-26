@@ -1,4 +1,4 @@
-### Hi I am👋
+### Hi, I am👋
 # Igor Viana
 ### A evolving Front-End Developer.
 
