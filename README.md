@@ -31,7 +31,7 @@ Rep portfolio-mobile-first
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@igorvianaf-blue?style=flat&logo=linkedin">
   </a>
 <a href="mailto:igorvf.dev@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-igorxvii020@gmail.com-blue?style=flat&logo=gmail">
+  <img alt="Email" src="https://img.shields.io/badge/Email-igorvf.dev@gmail.com-blue?style=flat&logo=gmail">
   </a>
 </p>
 
