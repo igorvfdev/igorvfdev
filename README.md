@@ -30,7 +30,7 @@ Rep portfolio-mobile-first
 <a href="https://www.linkedin.com/in/igorvianaf/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@igorvianaf-blue?style=flat&logo=linkedin">
   </a>
-<a href="mailto:igorxvii020@gmail.com">
+<a href="mailto:igorvf.dev@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-igorxvii020@gmail.com-blue?style=flat&logo=gmail">
   </a>
 </p>
